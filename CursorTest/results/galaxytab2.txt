@@ -1,0 +1,13 @@
+10-26 04:43:20.326: I/Diagnostics(5183): DatabaseInit   InputStreamToString: 82 milliseconds
+10-26 04:43:22.986: I/Diagnostics(5183): ItemParser   parseLineupItem took: 2661 milliseconds
+10-26 04:43:23.056: I/Diagnostics(5183): DatabaseInit   InputStreamToString: 67 milliseconds
+10-26 04:43:23.296: I/Diagnostics(5183): ItemParser   parsePrograms took: 147 milliseconds
+10-26 04:43:23.296: E/ItemParser(5183): Schedule Size: 184
+10-26 04:43:23.706: I/ItemParser(5183): Transaction Success
+10-26 04:43:23.711: I/Diagnostics(5183): ItemParser   parseSchedules took: 417 milliseconds
+10-26 04:43:23.711: I/Diagnostics(5183): DatabaseInit   DB Load: 3471 milliseconds
+10-26 04:43:24.406: E/TestDatabase(5183): Lineup Count: 1
+10-26 04:43:24.456: E/TestDatabase(5183): Lineup Schedules: 10
+10-26 04:43:24.456: I/TestDatabase(5183): Program title: Curious George
+10-26 04:43:24.456: I/Diagnostics(5183): TestDatabase   testDatabase Has Values; 742 milliseconds
+10-26 04:43:24.456: I/TestDatabase(5183): Tear Down

@@ -1,0 +1,7 @@
+1.  Fiddler proxy off old application web request mocks.
+
+2.  Make service to fetch data used. 
+
+3.  Make cursor adapter to bind data to screen. 
+
+

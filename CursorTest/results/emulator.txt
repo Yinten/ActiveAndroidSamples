@@ -1,0 +1,19 @@
+10-26 07:36:52.430: I/Diagnostics(4661): DatabaseInit   InputStreamToString: 1 milliseconds
+10-26 07:36:54.281: I/Diagnostics(4661): ItemParser   parseLineupItem took: 1851 milliseconds
+10-26 07:36:54.285: I/Diagnostics(4661): DatabaseInit   InputStreamToString: 4 milliseconds
+10-26 07:36:54.730: I/ItemParser(4661): Transaction Success
+10-26 07:36:54.731: I/Diagnostics(4661): ItemParser   parsePrograms took: 90 milliseconds
+10-26 07:36:54.732: E/ItemParser(4661): Schedule Size: 184
+10-26 07:36:55.063: I/ItemParser(4661): Transaction Success
+10-26 07:36:55.064: I/Diagnostics(4661): ItemParser   parseSchedules took: 332 milliseconds
+10-26 07:36:55.064: I/TestDatabase(4661): Tear Down
+10-26 07:36:55.066: I/TestDatabase(4661): Setup
+10-26 07:38:19.206: I/art(4883): WaitForGcToComplete blocked for 16.404086ms for cause Background
+10-26 07:38:19.928: I/TestDatabase(4921): Setup
+10-26 07:38:19.997: I/TestDatabase(4921): Tear Down
+10-26 07:38:19.999: I/TestDatabase(4921): Setup
+10-26 07:38:20.295: E/TestDatabase(4921): Lineup Count: 1
+10-26 07:38:20.301: E/TestDatabase(4921): Lineup Schedules: 10
+10-26 07:38:20.301: I/TestDatabase(4921): Program title: Curious George
+10-26 07:38:20.302: I/Diagnostics(4921): TestDatabase   testDatabase Has Values; 303 milliseconds
+10-26 07:38:20.302: I/TestDatabase(4921): Tear Down
